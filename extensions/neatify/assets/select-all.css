@@ -1,0 +1,6 @@
+.button.create + .button.select-all {
+	margin-right: 8px;
+}
+.button.select-all.active {
+	background: black;
+}

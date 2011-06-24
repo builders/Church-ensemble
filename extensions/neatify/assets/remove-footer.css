@@ -1,0 +1,7 @@
+body > form {
+	min-height: auto;
+	padding-bottom: 0;
+}
+body > form > #usr {
+	display: none;
+}
